@@ -8,7 +8,7 @@ Curious about my takes on AI, LLMs, front-end stacks, .NET, and various other to
 - https://charliedigital.com - old blog
 - https://chrlschn.medium.com - if you prefer this kind of thing
 
-I also have a tendency to collect side projects 🤣.  
+I also have a tendency to collect side projects 🤣
 
 Here are a few:
 
