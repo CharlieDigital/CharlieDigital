@@ -8,7 +8,9 @@ Curious about my takes on AI, LLMs, front-end stacks, .NET, and various other to
 - https://charliedigital.com - old blog
 - https://chrlschn.medium.com - if you prefer this kind of thing
 
-I also have a tendency to collect side projects 🤣.  Here are a few:
+I also have a tendency to collect side projects 🤣.  
+
+Here are a few:
 
 - [Turas.app](https://turas.app) - travel planning web app and Chrome extension for well-organized travelers
 - [CodeRev.app](https://coderev.app) - interview tool for assessing candidates using code review instead of/in addition to leetcode
