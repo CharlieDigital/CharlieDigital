@@ -21,6 +21,8 @@ I also have a tendency to collect side projects 🤣
 
 Here are a few:
 
+|Project|Description|
+|--|--|
 |**[Turas.app](https://turas.app)**|Travel planning web app and [Chrome extension](https://chromewebstore.google.com/detail/turasapp/lpfijfdbgohlblnadiokliolkkeeblpo) for well-organized travelers|
 |**[CodeRev.app](https://coderev.app)** ([repo, Vue + Nuxt.js](https://github.com/CharlieDigital/coderev))|Interview tool for assessing candidates using code review instead of/in addition to leetcode|
 |**[SKPromptGenerator](https://www.nuget.org/packages/SKPromptGenerator)** ([repo, .NET 8/C#](https://github.com/CharlieDigital/SKPromptGenerator))|[Semantic Kernel](https://github.com/microsoft/semantic-kernel) .NET source generator add-on for strongly-typed prompts.|
