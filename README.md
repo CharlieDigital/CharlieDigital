@@ -21,12 +21,12 @@ I also have a tendency to collect side projects 🤣
 
 Here are a few:
 
-|Project|Description|
-|--|--|
-|**[Turas.app](https://turas.app)**|Travel planning web app and [Chrome extension](https://chromewebstore.google.com/detail/turasapp/lpfijfdbgohlblnadiokliolkkeeblpo) for well-organized travelers|
-|**[CodeRev.app](https://coderev.app)** ([repo, Vue + Nuxt.js](https://github.com/CharlieDigital/coderev))|Interview tool for assessing candidates using code review instead of/in addition to leetcode|
-|**[SKPromptGenerator](https://www.nuget.org/packages/SKPromptGenerator)** ([repo, .NET 8/C#](https://github.com/CharlieDigital/SKPromptGenerator))|[Semantic Kernel](https://github.com/microsoft/semantic-kernel) .NET source generator add-on for strongly-typed prompts.|
-|**[Zeeq AI](https://zeeq.ai)**|An AI agent that watches the feed from ClinicalTrials.gov and provides a personalized update stream to your inbox|
+|Project|Description|Repo?|
+|--|--|--|
+|**[Turas.app](https://turas.app)**|Travel planning web app and [Chrome extension](https://chromewebstore.google.com/detail/turasapp/lpfijfdbgohlblnadiokliolkkeeblpo) for well-organized travelers||
+|**[CodeRev.app](https://coderev.app)**|Interview tool for assessing candidates using code review instead of/in addition to leetcode|[repo (Vue + Nuxt.js)](https://github.com/CharlieDigital/coderev)|
+|**[SKPromptGenerator](https://www.nuget.org/packages/SKPromptGenerator)**|[Semantic Kernel](https://github.com/microsoft/semantic-kernel) .NET source generator add-on for strongly-typed prompts.|[repo (.NET 8/C#)](https://github.com/CharlieDigital/SKPromptGenerator)|
+|**[Zeeq AI](https://zeeq.ai)**|An AI agent that watches the feed from ClinicalTrials.gov and provides a personalized update stream to your inbox||
 
 Reach out and connect with me on:
 
