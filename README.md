@@ -15,7 +15,7 @@ Curious about my takes on AI, LLMs, front-end stacks, .NET, and various other to
 - **[chrlschn.medium.com](https://chrlschn.medium.com)** - if you prefer this kind of thing
   - [TypeScript is not a Programming Language](https://chrlschn.medium.com/typescript-is-not-a-programming-language-f5b7e0fce01)
   - [React is the New IBM](https://chrlschn.medium.com/react-is-the-new-ibm-6af2f4b04e5e)
-  - [Structural Control Flow with Object Oriented Programming](https://medium.com/codex/structural-control-flow-with-object-oriented-programming-part-2-7d18526146de)   
+  - [A Conceptual Model of State in Vue 3.4](https://itnext.io/a-conceptual-model-of-state-in-vue-3-4-9390c8e68aa5)   
 
 I also have a tendency to collect side projects 🤣
 
