@@ -28,7 +28,7 @@ Here are a few:
 |**[SKPromptGenerator](https://www.nuget.org/packages/SKPromptGenerator)**|[Semantic Kernel](https://github.com/microsoft/semantic-kernel) .NET source generator add-on for strongly-typed prompts.|[repo (.NET 8/C#)](https://github.com/CharlieDigital/SKPromptGenerator)|
 |**[Zeeq AI](https://zeeq.ai)**|An AI agent that watches the feed from ClinicalTrials.gov and provides a personalized update stream to your inbox||
 
-Reach out and connect with me on:
+If you're aready here, might as well reach out and connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/charlescchen/)
 - [BlueSky](https://bsky.app/profile/chrlschn.bsky.social)
