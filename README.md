@@ -15,7 +15,13 @@ Curious about my takes on AI, LLMs, front-end stacks, .NET, and various other to
 - **[chrlschn.medium.com](https://chrlschn.medium.com)** - if you prefer this kind of thing
   - [TypeScript is not a Programming Language](https://chrlschn.medium.com/typescript-is-not-a-programming-language-f5b7e0fce01)
   - [React is the New IBM](https://chrlschn.medium.com/react-is-the-new-ibm-6af2f4b04e5e)
-  - [A Conceptual Model of State in Vue 3.4](https://itnext.io/a-conceptual-model-of-state-in-vue-3-4-9390c8e68aa5)   
+  - [A Conceptual Model of State in Vue 3.4](https://itnext.io/a-conceptual-model-of-state-in-vue-3-4-9390c8e68aa5)
+ 
+And videos:
+
+- [A Practical Guide to Modular Monoliths in .NET](https://youtu.be/VEggfW0A_Oo)
+- [The Inverted Reactivity Model of React](https://youtu.be/7OhyP8H7KW0)
+- [Ownit Engineering - Neo4j Graph DB + AI](https://youtu.be/tWE8yGKOEDw)
 
 I also have a tendency to collect side projects 🤣
 
@@ -28,11 +34,9 @@ Here are a few:
 |**[SKPromptGenerator](https://www.nuget.org/packages/SKPromptGenerator)**|[Semantic Kernel](https://github.com/microsoft/semantic-kernel) .NET source generator add-on for strongly-typed prompts.|[repo (.NET 8/C#)](https://github.com/CharlieDigital/SKPromptGenerator)|
 |**[Zeeq AI](https://zeeq.ai)**|An AI agent that watches the feed from ClinicalTrials.gov and provides a personalized update stream to your inbox||
 
-If you're aready here, might as well reach out and connect with me on:
+Reach out and connect with me on (let me know you came from GH!):
 
-- [LinkedIn](https://www.linkedin.com/in/charlescchen/)
-- [BlueSky](https://bsky.app/profile/chrlschn.bsky.social)
-- [Mastodon](https://mastodon.social/@chrlschn)
+[[ LinkedIn ]](https://www.linkedin.com/in/charlescchen/) [[ BlueSky ]](https://bsky.app/profile/chrlschn.bsky.social) [[ Mastodon ]](https://mastodon.social/@chrlschn)
 
 <!--
 **CharlieDigital/CharlieDigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
