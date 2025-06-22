@@ -29,6 +29,7 @@ Here are a few:
 
 |Project|Description|Repo?|
 |--|--|--|
+|**[RunJS]([https://zeeq.ai](https://github.com/CharlieDigital/runjs))**|A .NET MCP server that let's LLMs safely generate and execute JavaScript using Jint|[repo (.NET 9/C#, TypeScript, Vue, Nuxt)](https://github.com/CharlieDigital/runjs)|
 |**[Turas.app](https://turas.app)**|Travel planning web app and [Chrome extension](https://chromewebstore.google.com/detail/turasapp/lpfijfdbgohlblnadiokliolkkeeblpo) for well-organized travelers||
 |**[CodeRev.app](https://coderev.app)**|Interview tool for assessing candidates using code review instead of/in addition to leetcode|[repo (Vue + Nuxt.js)](https://github.com/CharlieDigital/coderev)|
 |**[SKPromptGenerator](https://www.nuget.org/packages/SKPromptGenerator)**|[Semantic Kernel](https://github.com/microsoft/semantic-kernel) .NET source generator add-on for strongly-typed prompts.|[repo (.NET 8/C#)](https://github.com/CharlieDigital/SKPromptGenerator)|
